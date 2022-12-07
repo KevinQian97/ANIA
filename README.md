@@ -9,6 +9,7 @@ Thanks for tacking care of ania!
 * 24h 没有吃饭
 * 便血 or 吐血 or 尿血
 * 24h 没有排尿
+
 要立刻联系医生或者emergency room
 
 ## Daily Runtine
