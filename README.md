@@ -12,22 +12,22 @@ Thanks for tacking care of ania!
 
 要立刻联系医生或者emergency room
 
-## Daily Runtine
+## Daily
 * 一个碗常备猫粮，一天换一次，喂罐头和冻干的时候把猫粮碗拿走。
 * 每天喂两次罐头，一次半个。剩下的半个装饭盒里放冰箱，拿出来的时候要微波炉高火打20s，加5-10ml水，拌匀。（ANIA 一次应该只会吃掉4分之一的罐头，可以把剩下的放到猫粮碗里）
 * 罐头喂完大概3-4h后喂一次冻干。（我一般是睡觉之前把猫粮拿走，喂冻干，早上起来收盘子）如果冻干复水 要2h之后收走。
 * 刷牙 （Optional）
 
-## Bi-daily Runtine
+## Every Two Days
 * 铲猫砂
 * 梳毛 （Optional）
 * 给饮水器加水，确保一直有流动的水
 
-## Weekly Runtine
+## Weekly
 * 换整盆猫砂
 * 清洗饮水机
 
-## Bi-weekly Runtine
+## Bi-weekly
 * 剪指甲 （Optional）
 
 ## Others
